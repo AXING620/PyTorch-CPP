@@ -2,6 +2,8 @@
 
 This demo will show you how to use libtorch to build your C++ application.
 
+**[UPDATE 2020/02/22]** : thanks for [Ageliss](https://github.com/Ageliss) and his [PR](https://github.com/BIGBALLON/PyTorch-CPP/pull/4), which update this demo to fit libtorch v1.4.0 and opencv4.0.
+
 ## Contents
 
 1. [Requirements](#requirements)
@@ -11,9 +13,9 @@ This demo will show you how to use libtorch to build your C++ application.
 
 ## Requirements
 
-- Pytorch (tag: pytorch v1.0)
-- Libtorch
-- OpenCV
+- Pytorch ~~(tag: pytorch v1.0)~~ (v1.4.0)
+- Libtorch (v1.4.0)
+- OpenCV (v4.0)
 
 ## Build
 
